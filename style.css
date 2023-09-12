@@ -1,0 +1,60 @@
+
+.header {
+  font-size: 40px;
+  font-weight: bolder;
+  padding-top: 10px;
+}
+.logo {
+  height: 75px;
+  margin-top: 10px;
+}
+.icon {
+  background-color: blue;
+  height: 20px;
+  padding-left: 50px;
+}
+.whatsapp {
+  height: 25px;
+  padding-left: 45%;
+}
+.icons {
+  background-color: blue;
+  color: white;
+  font-weight: bolder;
+  padding: 5px 0px;
+  display: flex;
+  align-items: center;
+}
+.email {
+  height: 30px;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#link {
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+  padding: 10px;
+  border-style: solid;
+}
+.links {
+  background-color: blue;
+  margin-top: 10px;
+  padding: 6px;
+  text-align: center;
+}
+#link:hover {
+  background-color: darkblue;
+}
+p {
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+}
+marquee {
+  padding-top: 20px;
+  font-size: 20px;
+}
